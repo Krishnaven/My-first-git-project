@@ -6,6 +6,8 @@ public class SampleGit {
 		// TODO Auto-generated method stub
 		System.out.println("Hello git");
 		System.out.println("Hello git1");
+		System.out.println("Hello git2");
+
 
 	}
 
