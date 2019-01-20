@@ -10,6 +10,8 @@ public class SampleGit {
 		
 		System.out.println("Hello git2");
 		
+		System.out.println("Hello git3 after cloning");
+		
 
 
 	}
